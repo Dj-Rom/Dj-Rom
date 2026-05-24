@@ -74,13 +74,24 @@ A packaging manager built with TypeScript.
 Restaurant web app — Meta Front-End Developer capstone project.  
 `JavaScript` · `React` · `UI/UX`
 
+### 🏔️ [Hill Climb Game](https://github.com/Dj-Rom/Hill_Climb)
+A browser-based Hill Climb racing game built from scratch.  
+`JavaScript` · `Game development` · `Canvas / Physics`
+
+---
+
+## 👥 Team Experience
+
+### 🌐 Datapolus *(volunteer contributor)*
+Contributed to a real team project as a developer.  
+Real codebase · Real teammates · Real deadlines  
+`Team collaboration` · `Code review` · `Git workflow`
+
 ---
 
 ## 📈 GitHub Stats
 
-![Aleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dj-Rom&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj-Rom&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dj-Rom&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -99,6 +110,7 @@ Restaurant web app — Meta Front-End Developer capstone project.
 - I shipped a **real product** before I knew what a junior dev was
 - I drove across Europe, adapted to new countries, solved problems alone at 3AM
 - I hold **12 certifications** including Meta and Microsoft
+- I have **real team experience** — not just solo pet projects
 - I'm not here to "explore options" — I'm here to **build**
 
 ---
